@@ -1,5 +1,5 @@
 # Weather-pattern-analysis
-Here’s a **simple, concrete example** you can include in your README to show how weather pattern analysis works in practice:
+To show how weather pattern analysis works in practice:
 
 ---
 
