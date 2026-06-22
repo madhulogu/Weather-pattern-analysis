@@ -70,10 +70,3 @@ plt.show()
   * Agriculture planning 🌾
   * Energy consumption forecasting ⚡
   * Climate monitoring
-
----
-
-If you want, I can also give:
-
-* a **real dataset example (Tamil Nadu weather)**
-* or a **machine learning prediction example (next-day temperature)**
