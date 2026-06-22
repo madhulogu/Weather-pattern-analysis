@@ -73,6 +73,4 @@ plt.show()
 
   * Agriculture planning 🌾
   * Energy consumption forecasting ⚡
-  * Climate monitoring
-
-AUTHORED BY MADHUMITHA LOGANATHAN
+  * Climate detection
